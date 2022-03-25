@@ -1,0 +1,6 @@
+Questions
+
+1. Create a script to monitor file utilization.
+
+2. Create a script to pull the code from GIT dockerize and push code maven.
+
