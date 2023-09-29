@@ -1,0 +1,10 @@
+    11	nobody:*:-2:-2:Unprivileged User:/var/empty:/usr/bin/false
+    23	_mcxalr:*:54:54:MCX AppLaunch:/var/empty:/usr/bin/false
+    24	_appleevents:*:55:55:AppleEvents Daemon:/var/empty:/usr/bin/false
+    25	_geod:*:56:56:Geo Services Daemon:/var/db/geod:/usr/bin/false
+    26	_devdocs:*:59:59:Developer Documentation:/var/empty:/usr/bin/false
+    27	_sandbox:*:60:60:Seatbelt:/var/empty:/usr/bin/false
+    28	_mdnsresponder:*:65:65:mDNSResponder:/var/empty:/usr/bin/false
+    29	_ard:*:67:67:Apple Remote Desktop:/var/empty:/usr/bin/false
+    30	_www:*:70:70:World Wide Web Server:/Library/WebServer:/usr/bin/false
+    31	_eppc:*:71:71:Apple Events User:/var/empty:/usr/bin/false
