@@ -17,3 +17,4 @@ echo "Hi how are you " | tr '[A-Z]' '[a-z]'
 echo "Hi how are you " | tr '[a-z]' '[A-Z]'
 java --version | awk 'NR==2' | cut -d " " -f 6 | tr -d ')'
 brew services restart jenkins
+cat test1  | awk '{print $1}' | tr '\n' ','
